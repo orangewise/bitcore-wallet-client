@@ -45,7 +45,7 @@
     "grunt-jsdoc": "^2.1.0",
     "istanbul": "*",
     "jsdoc": "^3.3.0-beta1",
-    "mocha": "^3.1.2",
+    "mocha": "^3.2.0",
     "uglify": "^0.1.1",
     "sinon": "^1.10.3",
     "supertest": "*",
