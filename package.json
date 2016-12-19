@@ -49,7 +49,7 @@
     "uglify": "^0.1.1",
     "sinon": "^1.10.3",
     "supertest": "*",
-    "tingodb": "^0.4.2",
+    "tingodb": "^0.5.1",
     "uuid": "^3.0.0"
   },
   "scripts": {
