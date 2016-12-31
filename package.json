@@ -47,7 +47,7 @@
     "jsdoc": "^3.3.0-beta1",
     "mocha": "^3.1.2",
     "uglify": "^0.1.1",
-    "sinon": "^1.10.3",
+    "sinon": "^1.17.7",
     "supertest": "*",
     "tingodb": "^0.5.1",
     "uuid": "^3.0.0"
